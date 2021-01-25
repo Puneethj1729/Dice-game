@@ -1,0 +1,47 @@
+
+body{
+  background-color: #bbf1fa;
+  text-align: center;
+}
+.container{
+  width: 70%;
+  margin: auto;
+}
+.dice{
+  display: inline-block;
+  margin:15px 20px;
+}
+img{
+  width: 85%;
+}
+h1{
+  font-size: 6rem;
+  font-family:  'Italianno', cursive;
+  margin: 10px;
+  font-weight: bolder;
+  text-shadow: 2px 2px #ffffff;
+}
+h2{
+  font-size: 4rem;
+  font-family:  'Italianno', cursive;
+  margin: 10px;
+  font-weight: bolder;
+  text-shadow: 2px 2px #ffffff;
+
+}
+h3{
+  font-size: 2rem;
+  font-family: 'Fraunces', serif;
+  margin:10px;
+  font-weight: bold;
+  text-shadow: 1px 1px #ffffff;
+
+}
+p{
+font-size: 1rem;
+font-family: sans-serif;
+margin: 10px;
+font-weight: bold;
+
+
+}
